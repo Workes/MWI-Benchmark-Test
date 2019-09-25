@@ -13,3 +13,11 @@ zworkes@gmail.com
 Personality Result- #6
 
 # Submission Test
+John Doe,
+
+This is Zach Workes with Midwestern Interactive, and currently I am in the process of creating content for your marketing site project. Unfortuneatley, my project manner is out of town, and I am missing a few key components to be able to complete the project on time. If you would be able to, could you send me some information for the marketing site, as well as some photos to add to the "About Page" as well at your earliest convienience? Thank you!
+
+-Zach
+
+# Code Test
+I have linked the HTML file for the code test with this repository. I have no comments other than that, I have been out of touch with Web Design for a while and I have become rusty with a lot of basic things, but thoe are easily fixable with more practice.
