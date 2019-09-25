@@ -1,0 +1,103 @@
+html {
+box-sizing: border-box;
+}
+
+body {
+}
+
+img {
+width: 100%;
+max-width: 30%;
+height: auto;
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+hr {
+font-weight: bold;
+color: black;
+}
+
+#headingone {
+	font-style: Arial;
+	letter-spacing: .1em;
+	font-size: 2.5vw;
+}
+
+@media screen and (max-width:800px) {
+	.left, .main, .right {
+		width: 100%;
+	}
+}
+
+.headingtwo {
+
+}
+
+.para-heading {
+	text-align: justify;
+}
+
+#fix {
+	font-size: 16px;
+	font-weight: normal;
+}
+
+.left {
+	padding: 20px;
+	float: left;
+	width: 20%;
+	border: 2px solid black;
+	border-radius: 25px;
+	margin: 4em;
+
+}
+
+.main {
+	padding: 20px;
+	float: left;
+	width: 20%;
+	border: 2px solid black;
+	border-radius: 25px;
+	margin: 4em;
+}
+
+.right {
+	padding: 20px;
+	float: left;
+	width: 20%;
+	border: 2px solid black;
+	border-radius: 25px;
+	margin: 4em;
+}
+
+#head-contact {
+	font-style: Arial;
+	letter-spacing: .1em;
+	font-size: 2.5vw;
+	text-align: center;
+}
+
+#form {
+	align-content: center;
+	text-align: center;
+	width: 100%;
+}
+
+#contact {
+	background-color: lightgrey;
+}
+
+#Email {
+	width: 100%
+	max-width: 50%;
+}
+
+.align {
+	align-content: left;
+}
+
+span {
+	color: red;
+}
